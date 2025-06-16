@@ -1,6 +1,6 @@
-Vijay's Portfolio
+Srinu's Portfolio
 
-Live-Link : [Portfolio](https://vijayasportfolio.netlify.app/)
+Live-Link : [Portfolio]()
 
 Designed my portfolio using React.js and Tailwind CSS, ensuring it is fully responsive. The portfolio highlights the technologies I have worked with and the projects I have completed. 
 
