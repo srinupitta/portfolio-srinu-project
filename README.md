@@ -1,6 +1,6 @@
 Srinu's Portfolio
 
-Live-Link : [Portfolio]()
+Live-Link : [Portfolio-srinu-project](http://localhost:3000/)
 
 Designed my portfolio using React.js and Tailwind CSS, ensuring it is fully responsive. The portfolio highlights the technologies I have worked with and the projects I have completed. 
 
