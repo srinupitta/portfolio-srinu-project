@@ -1,9 +1,9 @@
 import css from "../assets/css.png";
-import express from "../assets/express.png";
+import java from "../assets/java.png";
 import html from "../assets/html.png";
 import js from "../assets/js.png";
 import mysql from "../assets/mysql.png";
-import node from "../assets/nodeee.png";
+import springboot from "../assets/springboot.png";
 import python from "../assets/python.png";
 import react from "../assets/react.png";
 
@@ -14,8 +14,8 @@ const Experience = () => {
     { id: 3, src: css, style: "shadow-blue-500", title: "CSS" },
     { id: 4, src: js, style: "shadow-yellow-500", title: "JavaScript" },
     { id: 5, src: react, style: "shadow-blue-500", title: "React.js" },
-    { id: 6, src: node, style: "shadow-green-500", title: "Node.js" },
-    { id: 7, src: express, style: "shadow-gray-500", title: "Express.js" },
+    { id: 6, src: java, style: "shadow-green-500", title: "java" },
+    { id: 7, src: springboot, style: "shadow-gray-500", title: "springboot" },
     { id: 8, src: mysql, style: "shadow-orange-900", title: "MySQL" },
     
   ];
