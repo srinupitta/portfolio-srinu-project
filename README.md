@@ -1,6 +1,6 @@
 Srinu's Portfolio
 
-Live-Link : [Portfolio-srinu-project](http://localhost:3000/)
+Live-Link : [Portfolio-srinu-project](https://marvelous-flan-c45c70.netlify.app/)
 
 Designed my portfolio using React.js and Tailwind CSS, ensuring it is fully responsive. The portfolio highlights the technologies I have worked with and the projects I have completed. 
 
