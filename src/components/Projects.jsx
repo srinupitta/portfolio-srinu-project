@@ -1,5 +1,4 @@
 import gameCenter from '../assets/Projimages/gameCenter.png';
-import loginRegister from "../assets/Projimages/loginRegister.png";
 import restaurentWebsite from "../assets/Projimages/restaurentWebsite.png";
 import salesManagement from "../assets/Projimages/salesManagement.png";
 import studentTeacherPortal from "../assets/Projimages/studentTeacherPortal.png";
@@ -24,13 +23,7 @@ const Projects = () => {
           code:'https://github.com/srinupitta/game-center.'
         },
         {
-          id: 5,
-          src: loginRegister,
-          href:"https://www.youtube.com/watch?v=t7R-_ssf8m8",
-          code:'https://github.com/srinupitta/login-register-'
-        },
-        {
-          id: 6,
+          id: 4,
           src: restaurentWebsite,
           href:'https://glowing-tartufo-6c41c7.netlify.app/',
           code:'https://github.com/srinupitta/Restaurent-websitee--'
